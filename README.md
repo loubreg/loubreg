@@ -22,7 +22,7 @@ overall-project-folder/
 ```
 
 
-* Then, run the python file using the following command in the terminal: `python strava_local_heatmap.py`\
+* Then, run the python file using the following command in the terminal: `python strava_local_heatmap.py`
 * This will generate an HTML file with a dynamic map, visualizing all the tracks. The output file will be saved with the name track_lines_map.html
 * It can take a while to generate the HTML file, so we recommend starting with just a few GPX and FIT files to make sure everything runs smoothly before adding your full dataset.
 * Enjoy!
